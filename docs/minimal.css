@@ -12,11 +12,6 @@ body {
   color: white;
 }
 
-h1 {
-  font-family: "Montserrat", serif;
-  font-size: 32px;
-
-}
 
 .m-title {
   font-family: "Montserrat", serif;
@@ -29,8 +24,10 @@ h1 {
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   border: none;
+  text-decoration: none;
   border-radius: 100px;
-  border: 2px #FFFFFF;
+  border: 2px solid #FFFFFF;
+  padding: 1px 6px;
   width: 150px;
   height: 30px;
   color: #ffffff;
